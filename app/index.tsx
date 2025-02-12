@@ -1,5 +1,7 @@
 import { Text, View, StyleSheet } from 'react-native';
- import { Link } from 'expo-router'; 
+import { Link } from 'expo-router'; 
+import queryString from 'query-string';
+console.log(queryString.stringifyUrl({url: 'https://foo2.bar', query: {foo: 'bar'}}));
 
 export default function Index() {
   return (
