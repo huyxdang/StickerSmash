@@ -19,12 +19,3 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
 });
-
-
-// app/_layout.tsx
-// Users/huydang/StickerSmash/app/about.tsx
-
-// /Users/huydang/StickerSmash/app/_layout.tsx
-// app/_layout.tsx
-
-
